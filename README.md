@@ -4,7 +4,7 @@ BetaSign is a demo application to allow users to sign pdf documents with a digit
 
 ## Dependencies
 1. [iTextSharp](https://www.nuget.org/packages/iTextSharp/)
-2. [PdfiumViewer](https://www.nuget.org/packages/PdfiumViewer/)
+2. [PdfiumViewer 2.6.1](https://www.nuget.org/packages/PdfiumViewer/)
 3. [Wacom Signature SDK](http://signature.wacom.eu/products/software/software-development-kits-sdks/)
 4. Wacom hardware (Any [STU Signpads](http://www.wacom.com/en-sg/enterprise/business-solutions/hardware/signature-pads), [Pen Display](http://www.wacom.com/en-sg/enterprise/business-solutions/hardware/pen-displays), [Pen Tablets](http://www.wacom.com/en-sg/products/pen-tablets))
 
