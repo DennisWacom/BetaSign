@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BetaSign.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Signer</Value>
+    </Setting>
+    <Setting Name="DefaultReason" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Acknowledgement</Value>
+    </Setting>
+    <Setting Name="DefaultLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Singapore</Value>
+    </Setting>
+    <Setting Name="DefaultContact" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+65 91705788</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
